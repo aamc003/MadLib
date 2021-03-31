@@ -27,5 +27,16 @@ pnoun_5= input ("Choose a plural noun.")
 noun_4 = input("Choose a noun.")
 place= input ("choose a place.")
 
-
+print ("How much do you really know about the", adj_1, "EasterBunny?")
+print ("Here's the", adj_2 , "scoop on this mysterious",noun_1 +".")
+print ("Dose the Easter Bunny have magical",pnoun_1 + "?")
+print ("Absolutely. How ele could one furry",noun_2 ,"deliver candy filled")
+print ( pnoun_2, "to children everywhere in one",adj_3 , "night?")
+print ("Santa ahd elves and reindeer to help him make and deliver")
+print (pnoun_3 , "on Christmas. Dose the Easter bunny have a righthand" ,pnoun_4 +"?")
+print ("As far as we know the Easter Bunny likes to",verb_1 , "alone.")
+print ("Like other bunnies, he is very shy",noun_3  ,"and prefers to",verb_2 , "all by himself.")
+print ("Where dose the Easter Bunny live?")
+print ("Only the Easter Bunny knows that answer to this",adj_4 , "question,")
+print ("though some",pnoun_5 , "believe he lives in a cozy",noun_4 ,
 
